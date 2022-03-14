@@ -1,4 +1,4 @@
-package com.example.tutorias
+package com.example.AltoProfe
 
 import io.flutter.embedding.android.FlutterActivity
 

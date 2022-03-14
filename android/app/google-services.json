@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "488960017592",
+    "project_id": "alto-profe",
+    "storage_bucket": "alto-profe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488960017592:android:14bbbf1085e2c25bdf204d",
+        "android_client_info": {
+          "package_name": "com.example.AltoProfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488960017592-uv5rqrn9r5968uitup2c5km79mmcmc0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.AltoProfe",
+            "certificate_hash": "770a27935e768e4291e00b6a9dadf83ac86349c3"
+          }
+        },
+        {
+          "client_id": "488960017592-p7oas9b3fh7m0vgjfntlpb1bq6m3e69p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5dEI4REPYtxi8t9OkYax9_aVF-9LsTno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488960017592-p7oas9b3fh7m0vgjfntlpb1bq6m3e69p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "488960017592-4osgifh9mdqf2p3d4hs7u28gu7p6gte2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.AltoProfe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
