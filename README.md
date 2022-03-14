@@ -17,5 +17,7 @@ Grupo 3
 •Juan David Porras (2172000)
 
 Para ejecutar la aplicación necesita ejecutar estos dos comandos:
+
 flutter clean
+
 flutter pub get
