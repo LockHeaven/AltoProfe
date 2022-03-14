@@ -5,7 +5,7 @@
 Grupo 3
 
 ### Integrantes:
-•Angie Natalia Arias (2172017)
+•Angie Natalia Arias (2172017) \n
 •Sebastián Contreras (2171993)
 •Einer Steven Jaimes (2171978)
 •Marly  Y. Maldonado (2172712)
