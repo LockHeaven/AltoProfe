@@ -53,7 +53,7 @@ class _RequestTutorshipState extends State<RequestTutorship> {
           value: topic["name"],
         ));
       });
-      for (int i = 1; i <= firebaseProvider.maxHours; i++) {
+      for (int i = 1; i <= 6; i++) {
         hoursItems.add(DropdownMenuItem(
           child: (i == 1)
               ? Text(
